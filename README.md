@@ -1,4 +1,3 @@
-# TakeALorryOffTheRoad
 # Take a Lorry off the Road With Some Code!
 ## Pairing Exercise
 
